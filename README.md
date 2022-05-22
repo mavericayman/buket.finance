@@ -1,2 +1,2 @@
-# Buket.Finance - A Multi-Algorithmic Token Pegged to 1 FTM
+# Buket.Finance - A Multi-Algorithmic Token Pegged to 1 FTM via SEIGNIORAGE
 
